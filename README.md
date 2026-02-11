@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Zainab Sarfraz</h1>
-<h3 align="center">💻 Developer | 🤖 AI Enthusiast | 📱 Android Learner</h3>
+<h3 align="center">💻 Front-end Developer |📱 Android Learner</h3>
 
 ---
 
