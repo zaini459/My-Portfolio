@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,mysql,python,,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,mysql,python,git,github,AI,Machinelearning" />
 </p>
 
 
